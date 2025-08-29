@@ -1,0 +1,10 @@
+name: r-shiny-demo
+title:
+username: epds-shiny
+account: epds-shiny
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15305083
+bundleId: 10837009
+url: https://epds-shiny.shinyapps.io/r-shiny-demo/
+version: 1
