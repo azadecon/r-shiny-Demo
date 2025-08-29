@@ -37,7 +37,9 @@ cd pds-bihar-api-visualizer
 ```
 
 2. Install required R packages:
+```{R}
 install.packages(c("shiny", "httr", "rvest", "dplyr", "DT", "ggplot2", "tidyr"))
+```
 
 3. Run the app:
 ```{R}
